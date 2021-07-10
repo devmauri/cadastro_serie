@@ -1,0 +1,13 @@
+C:\Users\mauri\Desktop\cursos\DIO\gft.net\projeto1\CadastroSeries\Cadastro.Series\bin\Debug\netcoreapp3.1\Cadastro.Series.exe
+C:\Users\mauri\Desktop\cursos\DIO\gft.net\projeto1\CadastroSeries\Cadastro.Series\bin\Debug\netcoreapp3.1\Cadastro.Series.deps.json
+C:\Users\mauri\Desktop\cursos\DIO\gft.net\projeto1\CadastroSeries\Cadastro.Series\bin\Debug\netcoreapp3.1\Cadastro.Series.runtimeconfig.json
+C:\Users\mauri\Desktop\cursos\DIO\gft.net\projeto1\CadastroSeries\Cadastro.Series\bin\Debug\netcoreapp3.1\Cadastro.Series.runtimeconfig.dev.json
+C:\Users\mauri\Desktop\cursos\DIO\gft.net\projeto1\CadastroSeries\Cadastro.Series\bin\Debug\netcoreapp3.1\Cadastro.Series.dll
+C:\Users\mauri\Desktop\cursos\DIO\gft.net\projeto1\CadastroSeries\Cadastro.Series\bin\Debug\netcoreapp3.1\Cadastro.Series.pdb
+C:\Users\mauri\Desktop\cursos\DIO\gft.net\projeto1\CadastroSeries\Cadastro.Series\obj\Debug\netcoreapp3.1\Cadastro.Series.csprojAssemblyReference.cache
+C:\Users\mauri\Desktop\cursos\DIO\gft.net\projeto1\CadastroSeries\Cadastro.Series\obj\Debug\netcoreapp3.1\Cadastro.Series.AssemblyInfoInputs.cache
+C:\Users\mauri\Desktop\cursos\DIO\gft.net\projeto1\CadastroSeries\Cadastro.Series\obj\Debug\netcoreapp3.1\Cadastro.Series.AssemblyInfo.cs
+C:\Users\mauri\Desktop\cursos\DIO\gft.net\projeto1\CadastroSeries\Cadastro.Series\obj\Debug\netcoreapp3.1\Cadastro.Series.csproj.CoreCompileInputs.cache
+C:\Users\mauri\Desktop\cursos\DIO\gft.net\projeto1\CadastroSeries\Cadastro.Series\obj\Debug\netcoreapp3.1\Cadastro.Series.dll
+C:\Users\mauri\Desktop\cursos\DIO\gft.net\projeto1\CadastroSeries\Cadastro.Series\obj\Debug\netcoreapp3.1\Cadastro.Series.pdb
+C:\Users\mauri\Desktop\cursos\DIO\gft.net\projeto1\CadastroSeries\Cadastro.Series\obj\Debug\netcoreapp3.1\Cadastro.Series.genruntimeconfig.cache
